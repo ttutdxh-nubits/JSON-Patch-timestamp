@@ -3,7 +3,7 @@
   "version": "0.5.6",
   "homepage": "https://github.com/ttutdxh-nubits/JSON-Patch-timestamp",
   "description": "JSON-Patch (RFC-6902) with duplex (observe changes) capabilities and timestamp support",
-  "main": "src/json-patch-timestamp-duplex.js",
+  "main": "src/json-patch-duplex-timestamp.js",
   "keywords": ["json", "patch", "timestamp", "history", "http", "rest"],
   "license": "MIT",
   "ignore": [
